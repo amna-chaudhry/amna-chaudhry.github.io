@@ -1,0 +1,127 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+head {
+  background-color: #A50104;}
+
+body {
+ background-color: #A50104; 
+}
+
+/* STYLE TEXT */
+p {
+  color: #F3F3F3;
+  text-align: left;
+  font-size: 1.9em;
+  font-family: 'Arial Narrow', sans-serif
+}
+h1 {
+  color: #F3F3F3;
+  text-align: center;
+  font-size:4em;
+  text-decoration:overline underline;
+  padding-top:1em;
+  padding-bottom:0.5em;
+  font-family: 'Arial Narrow', sans-serif
+}
+h2 {
+  color: #F3F3F3;
+  font-size: 1.5em;
+  font-family: 'Arial Narrow', sans-serif
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+h4 {
+  color: #F3F3F3;
+  font-size: 2em;
+  font-family: 'Arial Narrow', sans-serif
+  text-align: left;
+}
+label {
+  color: #F3F3F3;
+  font-size: 1.5em;
+  font-family: 'Arial Narrow', sans-serif
+  text-align: center;
+}
+/* STYLE IMAGES */
+h3 {
+  background-color: #050517;
+  text-align:center;
+}
+iframe {
+  text-align:center;
+}
+.fc{
+  text-align:left;
+  float: left;
+  border:10px solid #A50104;
+}
+.lm{
+  text-align:left;
+  float:left;
+  border:7px solid #A50104;
+  margin-right:3%;
+}
+img {
+  vertical-align: middle;
+}
+img {
+  max-height:550px;
+  border-radius:0%;
+  text-align:left;
+  margin:0px;
+  display:in-line;
+  border-
+  border: 3px solid #2d6a4f;
+}
+/* STYLE NAV BAR */
+nav {
+  background-color:#F0F3F0;
+  text-align:left;
+}
+main{
+  margin-top:0;
+  margin-bottom:10%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+ul{
+  list-style-type:none;
+  background-color:#050517;
+  overflow:hidden;
+  padding:lem;
+}
+li{
+  display:inline;
+  text-decoration:none;
+  color:#F0F3F0;
+  font-size:39.5px;
+  padding:1em;
+}
+li a{
+  text-decoration:none;
+  color:#F0F3F0;
+  font-size:20px;
+  padding:1em;
+  text-align:left;
+}
+
+li a:hover {
+  background-color:#A50104;
+}
+h6{
+  font-size:5em;
+  text-align:right;
+}
+a {
+  text-decoration:underline;
+  color: #F0F3F0;
+  font-size:1em;
+  text-align:center;
+}
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
