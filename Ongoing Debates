@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="shortcut icon" type="image/zip" href="assets/favicon_io.zip"/> </head>
+
+    <title>Ongoing Debates</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+   
+     <nav>
+      <ul>
+        <h6>
+        <li>Abortion Rights For All</li>
+        <li><a href="index.html">Abortion Rights</a></li>
+        <li><a href="ongoingdebates.html">Ongoing Debates</a></li>
+        <li><a href="takeaction.html">Take Action</a></li>
+        <li><a href="learnmore.html">Learn More</a></li>
+        </h6>
+      </ul>
+    </nav>
+  </head>
+  
+  <body>
+        
+    <h1>Ongoing Debates</h1>
+<br>
+    
+    <h2>In the year 1973, the Supreme Court Case Roe v. Wade had came to an agreement that abortion is a right because each individual has the right to privacy. Although, this was a moment of celebration for many, others didn’t support this ruling. However, on June 27, 2022, a new Supreme Court case has overturned this decision (5-4). This means that in many states, abortions are no longer legalized unless women fall under the circumstances that allows them to get an abortion in their state.</h2>
+          <br>
+<h3><iframe width="900" height="500" src="https://www.youtube.com/embed/weRVOvLXvok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h3>
+
+   
+  
+  </body>
+</html>
